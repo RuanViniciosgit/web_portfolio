@@ -1,7 +1,5 @@
 # Portfólio - Ruan 💻
 
-[ Confira o projeto aqui!](https://web-portfolio-lovat-delta.vercel.app/)
-
 ---
 
 ## 💻 Sobre
